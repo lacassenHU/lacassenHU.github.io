@@ -16,8 +16,9 @@ The following table shows what words serve as hints that a given probability rul
 # How to Solve any Probability Question:
 
 1. First clearly identify the event we are trying to find the probability of and write it using proper probability notation. For the example problem above we would start by writing: P(win at least one game).  
-2. Rephrase the event to expose ‘hint words.’ For example: P(win at least one game) \= P(Win and Win and Win)  
-3. With the ‘hint words’ exposed, apply the appropriate probability rules. For example: P(win and win and win) \= P(win)\*P(win)\*P(win) \= 0.45\*0.45\*0.45 \= 0.091.
+2. Rephrase the event to expose ‘hint words.’ For example: P(win at least one game) = P(Win and Win and Win)  
+3. With the ‘hint words’ exposed, apply the appropriate probability rules. For example: P(win and win and win) = P(win)*P(win)*P(win) = 0.45*0.45*0.45 = 0.091.
 
-
-lacassenHU.github.io/GettsyburgAddressInteractive.html
+Links
+- Gettysburg Address Interactive — [View it live on your site](https://lacassenHU.github.io/GettsburgAddressInteractive.html)
+- (relative link) [Gettysburg Address Interactive page](GettsburgAddressInteractive.html)
